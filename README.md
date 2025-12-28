@@ -4,7 +4,7 @@
 
 ## 💫 About Me:
 
-📖 I am currently advancing my skills in Android development. I’m open to collaborating on exciting projects and innovative ideas in mobile tech.
+📖 I am currently advancing my skills in Android development. I’m open to collaborating on exciting projects and innovative ideas.
 
 🌵 My goal is to grow into a role as an Android Developer, leveraging my hands-on experience with Kotlin & Java.
 
